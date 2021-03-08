@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1023%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(0%2c 177%2c 238%2c 1)'%3e%3c/rect%3e%3cpath d='M1560 560L0 560 L0 421.2Q-13.37 335.82%2c 72 322.45Q93.41 271.86%2c 144 293.27Q226.57 255.84%2c 264 338.41Q342.19 296.6%2c 384 374.79Q470.56 341.35%2c 504 427.9Q575.84 379.74%2c 624 451.58Q641.59 397.17%2c 696 414.76Q763.73 362.49%2c 816 430.22Q862.94 405.16%2c 888 452.1Q957.98 402.08%2c 1008 472.06Q1018.7 362.75%2c 1128 373.45Q1153.43 278.88%2c 1248 304.32Q1296.32 232.64%2c 1368 280.96Q1458.25 299.21%2c 1440 389.46Q1540.23 369.69%2c 1560 469.92z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3cpath d='M1464 560L0 560 L0 532.73Q24.09 484.82%2c 72 508.91Q112.83 429.74%2c 192 470.57Q276.36 434.93%2c 312 519.3Q418.54 505.84%2c 432 612.37Q438.39 546.76%2c 504 553.15Q527.74 504.88%2c 576 528.62Q660.55 493.17%2c 696 577.73Q723.17 532.9%2c 768 560.08Q786.74 458.82%2c 888 477.56Q930.82 400.38%2c 1008 443.2Q1032.93 396.13%2c 1080 421.06Q1156.45 377.51%2c 1200 453.96Q1279.51 461.47%2c 1272 540.97Q1343.45 492.42%2c 1392 563.87Q1407.26 507.13%2c 1464 522.39z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1023'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
